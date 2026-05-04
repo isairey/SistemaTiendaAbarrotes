@@ -127,7 +127,7 @@ Facilitar la gestión de tiendas de abarrotes mediante una aplicación simple, r
 
 ## 👨‍💻 Autor
 
-**Isai Reyes**
+<img src="https://avatars.githubusercontent.com/isairey?s=115"><br><sub>**Isai Reyes**</sub>
 Desarrollador de sistemas empresariales y aplicaciones de escritorio 🚀
 
 ---
