@@ -76,7 +76,7 @@ src/
 1. Clonar el repositorio:
 
 ```bash id="r4t9yl"
-git clone https://github.com/TU-USUARIO/sistema-abarrotes-java.git
+git clone https://github.com/TU-USUARIO/SistemaTiendaAbarrotes.git
 ```
 
 2. Abrir en tu IDE:
