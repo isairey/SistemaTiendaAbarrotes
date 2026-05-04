@@ -76,7 +76,7 @@ src/
 1. Clonar el repositorio:
 
 ```bash id="r4t9yl"
-git clone https://github.com/TU-USUARIO/SistemaTiendaAbarrotes.git
+git clone https://github.com/isairey/SistemaTiendaAbarrotes.git
 ```
 
 2. Abrir en tu IDE:
@@ -134,4 +134,4 @@ Desarrollador de sistemas empresariales y aplicaciones de escritorio 🚀
 
 ## 📜 Licencia
 
-Proyecto de uso libre para fines educativos y comerciales.
+License MIT.
